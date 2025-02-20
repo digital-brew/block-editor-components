@@ -1,6 +1,6 @@
 {
 	"name": "@humanmade/block-editor-components",
-	"version": "0.8.0",
+	"version": "0.10.0",
 	"description": "Reusable components, hooks and helper functions for the WordPress block editor(s).",
 	"keywords": [
 		"block editor",
@@ -39,7 +39,7 @@
 		"eslint-config-react-app": "^7.0.1",
 		"eslint-plugin-flowtype": "^8.0.3",
 		"eslint-plugin-import": "^2.27.5",
-		"eslint-plugin-jsdoc": "^39.3.23",
+		"eslint-plugin-jsdoc": "^45.0.0",
 		"eslint-plugin-jsonc": "^2.7.0",
 		"eslint-plugin-jsx-a11y": "^6.7.1",
 		"eslint-plugin-react": "^7.32.2",
